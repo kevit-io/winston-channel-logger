@@ -16,6 +16,10 @@
     "winston-slack",
     "winston-discord"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevit-io/winston-channel-logger"
+  },
   "author": "Parth Mansata <parth.mansata@kevit.io>",
   "license": "ISC",
   "dependencies": {
