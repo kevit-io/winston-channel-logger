@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "pretty": true,
+    "sourceMap": true,
+    "target": "es2021",
+    "rootDir": "./",
+    "outDir": "./",
+    "baseUrl": "./",
+    "removeComments": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["*.ts"]
+}
