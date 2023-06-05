@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "private": false,
   "description": "Library to dump winston logs to Business Communication Platforms such as MS Teams, Slack, etc.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "test": "npm run test"

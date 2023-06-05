@@ -6,11 +6,11 @@
     "pretty": true,
     "sourceMap": true,
     "target": "es2021",
-    "rootDir": "./",
-    "outDir": "./",
-    "baseUrl": "./",
+    "rootDir": "./src",
+    "outDir": "./lib",
+    "baseUrl": "./src",
     "removeComments": true
   },
   "exclude": ["node_modules"],
-  "include": ["*.ts"]
+  "include": ["src/*.ts"]
 }
