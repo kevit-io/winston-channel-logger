@@ -164,4 +164,7 @@ dist
 .history
 .ionide
 
+# Ignore built code files
+lib/
+
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode

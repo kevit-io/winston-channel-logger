@@ -1,9 +1,9 @@
 {
   "name": "@kevit/winston-channel-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "description": "Library to dump winston logs to Business Communication Platforms such as MS Teams, Slack, etc.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "tsc",
     "test": "npm run test"
@@ -21,7 +21,7 @@
     "url": "https://github.com/kevit-io/winston-channel-logger"
   },
   "author": "Parth Mansata <parth.mansata@kevit.io>",
-  "license": "ISC",
+  "license": "GNU GENERAL PUBLIC LICENSE",
   "dependencies": {
     "axios": "^1.4.0",
     "typescript": "^5.1.3",
