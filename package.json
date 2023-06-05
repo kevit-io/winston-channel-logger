@@ -1,6 +1,6 @@
 {
   "name": "@kevit/winston-channel-logger",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "Library to dump winston logs to Business Communication Platforms such as MS Teams, Slack, etc.",
   "main": "lib/index.js",
