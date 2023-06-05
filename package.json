@@ -1,6 +1,6 @@
 {
   "name": "@kevit/winston-channel-logger",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "description": "Library to dump winston logs to Business Communication Platforms such as MS Teams, Slack, etc.",
   "main": "lib/index.js",
@@ -24,7 +24,9 @@
   "license": "GNU GENERAL PUBLIC LICENSE",
   "dependencies": {
     "axios": "^1.4.0",
-    "typescript": "^5.1.3",
     "winston-transport": "^4.5.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
   }
 }
